@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vijay10602
 - 👀 I’m interested in application development.
-- 🌱 I’m currently learning python indepth dcripting and usage.
-- 💞️ I’m looking to collaborate on any projects associated with python, projects requiring other scripting languages(willing to learn if necessary).
+- 🌱 I’m currently learning python indepth scripting and usage.
+- 💞️ I’m looking to work on any projects associated with python, projects requiring other scripting languages(willing to learn if necessary).
 - 📫 a pull request for this readme would be easier.
 
 <!---
